@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap01{
+    width: 1920px;
+    height: 2259px;
+    background-image: url(img/img1.png);
+    
+}
+.w1_con1{
+    display: block;
+    margin: 0 auto;
+    padding-top:235px
+}
+/* block2번 */
+.wrap02{
+    width: 1920px;
+    height: 2649.34px;
+    background-image: url(img/img3.png);
+}
+.w2_con1{
+    display: block;
+    padding-top: 355.1px;
+    padding-left: 416.8px;    
+}
+.w2_con2{
+    display: block;
+    top: 3236.1px;
+    padding-left: 51.3px;   
+    position: absolute; 
+}
+.w2_con3{
+    display: block;
+    top: 4129.1px;
+    padding-left: 290.7px;   
+    position: absolute; 
+}
+/* block3번 */
+.wrap03{
+    width: 1920px;
+    height: 1762px;
+}
+.wrap04{
+    width: 1920px;
+    height: 2068px;
+    background-image: url(img/img8.png);
+}
+.w4_txt{
+    display: block;
+    margin: 0 auto;
+    padding-top: 130.7px;
+    width: 1116px;
+    height: 178px;
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 65px;
+    letter-spacing: -0.8px;
+    color: #4B2600;
+    text-align: center;
+}
+.w4_con1{
+    margin: 0 auto;
+    padding-top: 870.7px;
+    padding-left: 647.1px;
+}
+.wrap05{
+    width: 1920px;
+    height: 394.91px;
+    background-color: #D9A93C;
+}
+.w5_con1{
+    margin: 0 auto;
+    padding-top: 104.5px;
+    padding-left: 409.5px;
+}
